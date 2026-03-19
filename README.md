@@ -69,5 +69,3 @@ The model is built using Linear Regression and deployed as an interactive web ap
 - Streamlit  
 
 ---
-
-## 📁 Project Structure
