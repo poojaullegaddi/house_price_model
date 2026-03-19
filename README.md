@@ -1,4 +1,3 @@
-# house_price_model
 # 🏠 House Price Prediction App using Linear Regression
 
 ## 📌 Project Overview
@@ -45,6 +44,21 @@ The model is built using Linear Regression and deployed as an interactive web ap
 
 ---
 
+## 🧾 Feature Description
+
+| Feature Name | Description | Impact on Price |
+|-------------|------------|----------------|
+| MedInc | Median income of people in the area | Higher income → higher house prices |
+| HouseAge | Average age of houses | Newer houses → higher price |
+| AveRooms | Average number of rooms | More rooms → higher price |
+| AveBedrms | Average number of bedrooms | More bedrooms → higher price |
+| Population | Total population in the area | High demand can increase price |
+| AveOccup | Average people per house | High occupancy may reduce price |
+| Latitude | North-South location | Helps identify area |
+| Longitude | East-West location | Location strongly affects price |
+
+---
+
 ## 🛠️ Tech Stack
 - Python  
 - NumPy  
@@ -55,3 +69,5 @@ The model is built using Linear Regression and deployed as an interactive web ap
 - Streamlit  
 
 ---
+
+## 📁 Project Structure
